@@ -2,7 +2,7 @@
   <div style="flex: 1;">
     <h2>👋 About Me</h2>
     <p>
-      I'm <strong>Shoaib Akhtar</strong>, a <strong>Computer Science and Engineering student</strong> from <strong>Kolkata, India</strong>, currently in my <strong>last semester</strong> at <strong>Sister Nivedita University</strong>, with a <strong>CGPA of 8.02</strong>. I’m passionate about <strong>web development</strong>, <strong>problem-solving</strong>, and exploring <strong>emerging technologies</strong> like <strong>Web3</strong> and <strong>Generative AI</strong>.
+      I'm <strong>Shoaib Akhtar</strong>, a <strong>Computer Science and Engineering student</strong> from <strong>Kolkata, India</strong>, currently in my <strong>last semester</strong> at <strong>Sister Nivedita University</strong>, with a <strong>CGPA of 8.12</strong>. I’m passionate about <strong>web development</strong>, <strong>problem-solving</strong>, and exploring <strong>emerging technologies</strong> like <strong>Web3</strong> and <strong>Generative AI</strong>.
     </p>
   </div>
 </div>
